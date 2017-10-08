@@ -25,12 +25,14 @@ The general activities in which the meetings are composed of are:
 
 ### Article V: Officer Team:
 Section 1: Composition
+
 The term “officer team” shall be defined as the group comprised of the people enumerated as follows, along with their respective duties.
 1.	The officers, with the assistance of the advisor, shall oversee the club’s operations and ensure that this constitution is followed. One officer designated as the president shall lead the meetings and the other shall work behind the scenes to plan meetings and ensure that meetings run efficiently. These duties are interchangeable so any officers can decide which he or she would like to do.
 2.	The secretary shall work together with the treasurer to manage and fill out paperwork. Moreover, the secretary shall be affiliated with the task of recording minutes for the club in order to finalize any decisions agreed upon by the club members and other officers.
 3.	The treasurer shall be affiliated with the task of managing the club’s funds and filling out paperwork relating to money.
 
 Section 2: Officer Impeachment and Expulsion
+
 Should an officer fail to complete his/her duties, he/she may be impeached and expelled from the club at the discretion of the other officer team members. An officer may also be impeached and expelled for the following reasons that include, but are not limited to: nepotism, hostility, and abuse of power. No officer shall be expelled without the bipartisan consensus of unanimity of the student officer team and the club advisor, not including the officer being tried.
 
 ### Article VI: Elections of Officers
