@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Constitution
+subtitle: Computer Science Club Constitution
 ---
-
-Computer Science Club Constitution
 
 ### Article I: Name
 The name of this club shall be the Computer Science Club of Gabrielino High School.
