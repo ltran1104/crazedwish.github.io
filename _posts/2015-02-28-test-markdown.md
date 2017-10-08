@@ -3,7 +3,7 @@ layout: post
 title: Euler 1 Solution
 ---
 
-{% highlight java lineos %}
+```java
 public static void main(String[] args) {
     int sum = 0;
     for (int i = 3; i < 1000; i++) {
@@ -13,4 +13,4 @@ public static void main(String[] args) {
     }
     System.out.println(sum);
 }
-{% end highlight %}
+```
