@@ -3,7 +3,7 @@ layout: post
 title: Egg Drop Solution
 ---
 ***Solution to Google Problem from the First Computer Science Club Meeting
-Dr. Richard W. McHard
+Dr. Richard W. McHard***
 
 The problem below, posed by Google, was stated at the first Computer Science Club Meeting, held Friday, October 6, 2017.
 
@@ -116,7 +116,7 @@ This approach generalizes in the obvious way.  If there are f floors, you want t
 
 A more interesting generalization question is:  what happens if we add more eggs?
 
-***Stanley's Solution
+***Stanley's Solution***
 ```java
 /**
  @Author:
