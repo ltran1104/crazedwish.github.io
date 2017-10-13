@@ -116,4 +116,53 @@ This approach generalizes in the obvious way.  If there are f floors, you want t
 
 A more interesting generalization question is:  what happens if we add more eggs?
 
+Stanley's Solution
+```java
+/**
+ @Author:
+ Period:
+ Date Started: Oct 13, 2017
+ Date Completed:
+ Assignment #:
+ Description:
+*/
+import java.util.*;
+
+public class Drop 
+{
+	public static void main(String args[])  
+	{
+		int[] seq = {13, 25, 36, 46, 55, 64, 72, 79, 85, 90, 94, 97, 99, 100}; //Hard coded sequence
+		int eggs = 2; //Given 2 eggs
+		int floor = (int)(Math.random()*100); //Generate random floor 1-100
+		int floors = 0;
+		int i = 0;
+		int found = 0;
+		while(eggs != 0 && i < seq.length && found == 0)
+		{
+			if(seq[i] > floor)
+			{
+				System.out.println("Egg broke on floor: " + seq[i] + " One Egg left");
+				eggs--;
+				i--;
+				for(int j = seq[i]; j < seq[i+1]; j++)
+				{
+					floors++;
+					if(j >  floor)
+					{
+						j--;
+						found = j;
+						break;
+					}
+				}
+				
+			}
+			i++;
+			floors++;
+		}
+		System.out.println("Found on floor " + found + " with " + floors + " amount of drops");	
+		System.out.println("Random Number: " + floor);	
+	}
+}
+```
 
